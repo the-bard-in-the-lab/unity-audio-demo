@@ -4,7 +4,7 @@ This repository comprises the following branches:
 - `in_class` and `after_class`, which are both versions of the demo presented in CSCI 361 on 2024-10-16. `after_class` contains the jump and dash sounds we worked on together.
 - `dynamic_sfx`, a branch dedicated to a demo on sound effects that change to fit underlying chords. Note that this branch is a work-in-progress and should be treated as such.
 
-# Audio Resources
+## Audio Resources
 Resource | Type | URL
 :--      | :--  |:--
 BFXR|Sound effect synthesizer|https://www.bfxr.net/
@@ -15,3 +15,6 @@ OpenGameArt.org | Free art and sounds | https://opengameart.org/
 BBC Sound Effects | Sounds for non-commercial or educational use | https://sound-effects.bbcrewind.co.uk/
 
 Many of these sources allow users to upload content under different licenses. Please be dutiful and check that your use case falls under the license. It is also good practice to credit the original artist whether or not the license specifies that attribution is required.
+
+## Credits
+This work was produced as part of the [CARDS Lab](https://cards-hci.github.io/) for Prof. [Emily Wang](https://greenteawarrior.github.io/)'s CSCI 361: Game Design course.
